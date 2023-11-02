@@ -21,7 +21,6 @@
 ## Output Video
    https://github.com/RedoySQA/Mocha-Axios-API-Automation/assets/143482478/279d0921-7c62-427d-bcb7-a4ea203907cb
 ## Mochawesoe Report
-   ![Screenshot_37](https://github.com/RedoySQA/Mocha-Axios-API-Automation/assets/143482478/e9fc29c8-3911-4019-82fa-e75edd178673)
    ![Screenshot_38](https://github.com/RedoySQA/Mocha-Axios-API-Automation/assets/143482478/a5834cc5-fcc1-4606-9cc7-e535fb039709)
 ## How To Run This Project
    - Clone This project
